@@ -6,7 +6,7 @@ Monitors river water quality at stations along the Citarum and other Indonesian 
 reading with the national pollution index (*Indeks Pencemaran*), and raises alerts when a river
 breaks the Class II standard of PP 22/2021.
 
-> Week 1 of [Nusantara Intel](https://github.com/m4m4d1/nusantara-intel): one new open-source
+> Week 1 of Nusantara Intel: one new open-source
 > information system for Indonesia every week, built in public one step per day.
 
 ## Monitored stations
@@ -28,7 +28,7 @@ Ciliwung in Jakarta, Kali Surabaya, the Musi, the Kapuas and the Mahakam.
 ## Roadmap this week
 
 - [x] Mon: scaffold, stations and data model
-- [ ] Tue: sensor data simulator and storage
+- [x] Tue: sensor data simulator and storage
 - [ ] Wed: REST API, pollution index and alerts
 - [ ] Thu: dashboard
 - [ ] Fri: map and alerts panel
