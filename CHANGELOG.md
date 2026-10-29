@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Bilingual (EN/ID) dashboard: summary, station table, station detail with 72-hour chart.
 - REST API: stations, history, summary, alerts and a sensor ingest endpoint (`/docs` for details).
 - Pollution index (Indeks Pencemaran, KepMenLH 115/2003) with status bands and Class II limit checks.
 - Sensor data simulator with daily cycles and pollution events, and SQLite storage
