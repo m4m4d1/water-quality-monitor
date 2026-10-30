@@ -31,7 +31,7 @@ Ciliwung in Jakarta, Kali Surabaya, the Musi, the Kapuas and the Mahakam.
 - [x] Tue: sensor data simulator and storage
 - [x] Wed: REST API, pollution index and alerts
 - [x] Thu: dashboard
-- [ ] Fri: map and alerts panel
+- [x] Fri: map and alerts panel
 - [ ] Sat: Docker, tests and documentation
 - [ ] Sun: live demo and v1.0 release
 
