@@ -9,6 +9,8 @@ breaks the Class II standard of PP 22/2021.
 > Week 1 of Nusantara Intel: one new open-source
 > information system for Indonesia every week, built in public one step per day.
 
+**Live demo:** https://m4m4d1.github.io/water-quality-monitor/ (simulated data)
+
 ## Features
 
 - **11 stations**: six along the Citarum (from the source at Situ Cisanti to Karawang), plus the
@@ -103,7 +105,7 @@ pytest -q
 The demo data is simulated: station locations are real, readings are not. Check the regulations
 before using the limits for official purposes.
 
-## Roadmap this week
+## Built this week
 
 - [x] Mon: scaffold, stations and data model
 - [x] Tue: sensor data simulator and storage
@@ -111,7 +113,7 @@ before using the limits for official purposes.
 - [x] Thu: dashboard
 - [x] Fri: map and alerts panel
 - [x] Sat: Docker, tests and documentation
-- [ ] Sun: live demo and v1.0 release
+- [x] Sun: live demo and v1.0 release
 
 ## License
 

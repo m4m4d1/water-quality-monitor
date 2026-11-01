@@ -1,6 +1,6 @@
 [project]
 name = "water-quality-monitor"
-version = "0.1.0"
+version = "1.0.0"
 description = "Water Quality Monitoring System for Indonesian rivers"
 requires-python = ">=3.10"
 license = { text = "MIT" }
